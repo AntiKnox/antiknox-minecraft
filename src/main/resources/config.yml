@@ -1,0 +1,6 @@
+# Your AntiKnox key goes here, found in the dashboard and in the welcome email.
+# See: https://www.antiknox.net/dashboard
+key: "YOUR_ANTIKNOX_KEY_GOES_HERE"
+
+# The message shown to the player if they're disconnected.
+kickmessage: "[AntiKnox] You're not allowed to connect with a VPN or proxy."
